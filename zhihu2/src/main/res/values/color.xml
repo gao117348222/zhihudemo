@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Indigo_colorPrimaryDark">#303f9f</color>
+    <!--<color name="Indigo_colorPrimary">#0077D9</color>-->
+    <color name="Indigo_nav_color">#4675FF</color>
+    <color name="listview_select">#00A7E1</color>
+    <color name="white">#FFFFFF</color>
+    <color name="top_color">#0077D9</color>
+    <color name="loadingbar_color">#33B5E5</color>
+    <!--<color name="black"-->
+    <color name="holo_dark_green">#99CC00</color>
+    <color name="transpan">#00000000</color>
+
+</resources>

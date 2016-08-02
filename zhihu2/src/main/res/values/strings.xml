@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Zhihu2</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="open">打开</string>
+    <string name="close">关闭</string>
+    <string name="titlename">知乎</string>
+    <string name="title_activity_userinfo">userinfo</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_act_tiwen">Act_tiwen</string>
+    <string name="pull_loading">下拉刷新...</string>
+    <string name="ptrRefreshingText">正在载入...</string>
+</resources>
